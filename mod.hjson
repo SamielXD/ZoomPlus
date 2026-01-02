@@ -1,0 +1,9 @@
+name: "zoom+"
+displayName: "Zoom+"
+author: "SamielXD"
+description: "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
+version: "1.0"
+minGameVersion: "154"
+dependencies: []
+hidden: false
+repo: "SamielXD/ZoomPlus"
